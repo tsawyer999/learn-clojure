@@ -1,0 +1,30 @@
+# Clojure-specific ignores
+
+# Compiled Java class files
+*.class
+
+# Leiningen build directory
+target/
+
+# Leiningen project file
+project.clj
+
+# Boot build directory
+target/
+
+# Cursive IDE project files
+.idea/
+
+# Emacs backup files
+*~
+
+# Vim temporary files
+*.swp
+
+# Mac OS X system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+lib/
